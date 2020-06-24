@@ -8,7 +8,7 @@
   * sqlite3 edu.db
   * create table studentsinfo(course_id INTEGER,student_id INTEGER,grades INTEGER);  
   ![](images/1.png)  
-* 学习 sqlite3库的语法：![学习网站](https://docs.python.org/3/library/sqlite3.html)  
+* 学习 sqlite3库的语法：[学习网站](https://docs.python.org/3/library/sqlite3.html)  
   * 修改之前课上的httpserver.py源代码，编写录入成绩和查询成绩的代码    
     ![](images/2.png)     
   * 对应的录入界面/查询界面html代码如下  
